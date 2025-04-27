@@ -35,4 +35,28 @@ python expense_tracker.py
 3. All your data is saved in `expenses.csv` in the same folder.
 
 ## Example
+==============================
+🦖 Welcome to spend-o-saurus! 🦖
+==============================
+Track your expenses before they go extinct!
+Let's keep your wallet alive together!
+Main Menu:
+1️⃣ Add Expense
+2️⃣ View Expenses
+3️⃣ Summarize Expenses
+4️⃣ Exit
+👉 Choose an option (1-4):
 
+
+## License
+
+MIT
+
+---
+
+*Made with 🦕 and 😂 for everyone who wants to have fun while saving money!*
+
+gitignore
+__pycache__/
+*.pyc
+expenses.csv
